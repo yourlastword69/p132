@@ -1,0 +1,11 @@
+body{
+    background-color: aqua;
+    text-align: center;
+}
+
+canvas{
+    border: 5px solid rgb(255, 34, 34);
+    border-radius:  20px;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 160px;
+}
